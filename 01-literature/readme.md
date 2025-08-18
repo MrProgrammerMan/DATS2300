@@ -5,4 +5,4 @@ tags: [meta, litteratur, notat]
 ---
 
 # Litteraturnotater
-Litteraturnotater (dvs: notater til en spesifikk forelesning i [timene]([[20250818100422]])) are placed in this directory.
+Litteraturnotater (dvs: notater til en spesifikk forelesning i [timene]([[20250818100422]]) eller til kapitler i [boka]([[20250818102829]])).
