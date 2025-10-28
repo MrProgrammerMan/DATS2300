@@ -8,7 +8,6 @@ Notatene er organisert som en [Zettelkasten](https://en.wikipedia.org/wiki/Zette
 Repoet er inndelt i [00-inbox]([[20250818100346]]), [01-literature]([[20250818100350]]), [02-permanent]([[20250818100355]]),  [03-structure]([[20250818100401]]) og [04-excercises]([[20250818100409]]). 04 er ikke egentlig en del av notatene, men det er nyttig å holde oppgaver på samme sted.
 
 ## Todo:
-1.2: 9, 11
 1.3: 2-6, 8-9, 11, 13
 1.4: 1-4, 6
 1.5: 1-3, 7-9, 11
